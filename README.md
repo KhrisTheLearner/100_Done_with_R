@@ -16,8 +16,8 @@ Each directory contains:
 - **Instructions:** Steps to run the code and any prerequisites.
 ## Getting Started
 To run the programs in this repository, you will need:
-- R installed on your machine (Download R)
-- An R IDE like RStudio (Download RStudio)
+- R installed on your machine [(Download R)](https://www.r-project.org)
+- An R IDE like RStudio [(Download RStudio)](https://rstudio-education.github.io/hopr/starting.html)
 ## Running the code
 1. Clone this repositoty to your local machine: ```git clone https://github.com/yourusername/100_Done_with_R.git```
 2. Navigate to the directory of the program you want to run: ```cd 100_Done-with_R/Program_Directory```
