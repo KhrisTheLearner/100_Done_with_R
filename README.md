@@ -26,7 +26,7 @@ To run the programs in this repository, you will need:
 ## Contribution
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
 ## Stay Connected
-Follow the "100 Done with R" series on LinkedIn to stay updated on new programs and tutorials.
+Follow the ["100 Done with R"](https://www.linkedin.com/company/done-with-r/?viewAsMember=true) series on LinkedIn to stay updated on new programs and tutorials.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Acknowledgments
