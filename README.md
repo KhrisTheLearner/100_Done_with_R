@@ -5,8 +5,8 @@ R is widely used for statistical analysis, data visualization, and data science.
 ## Structure
 The repository is organized by program categories and includes detailed explanations, code snippets, and use cases for each program. As new programs are introduced in the LinkedIn series, they will be added to this repository.
 - [**Program 1: Hello World Program**](1._hello_world.R)
-- **Program 2: Simple Calculator**
-- **Program 3: Check for Even or Odd**
+- [**Program 2: Simple Calculator**](2._simple_calc.R)
+- [**Program 3: Check for Even or Odd**](3._odd_even_checker.R)
 - **... (List continues as more programs are added)**
 
 Each directory contains:
